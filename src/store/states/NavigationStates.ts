@@ -1,0 +1,3 @@
+export default {
+    activeFooter:true,
+}
