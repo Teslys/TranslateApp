@@ -1,7 +1,7 @@
 import React from 'react';
 import {SafeAreaView, Text, View} from 'react-native';
-import Header from './Header/Header';
-import Footer from './Footer/Footer';
+import Header from './header/Header';
+import Footer from './footer/Footer';
 import Router from '../navigation/RootNavigation';
 import styled from 'styled-components/native'
 import AsyncStorage from '@react-native-async-storage/async-storage';
